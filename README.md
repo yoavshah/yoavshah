@@ -15,6 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoavshah&count_private=true&langs_count=30&layout=compact&theme=monokai)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=yoavshah)
 * Not enough :(
 
