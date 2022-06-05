@@ -1,16 +1,20 @@
-### Hi there 👋
+## yoavshah👋
 
-<!--
-**yoavshah/yoavshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Reverse Engineering
+* CPP + Python Developer
+* Pentester
+* Clear and Documented Code <3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*My Stats:
+
+![yoavshah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoavshah&theme=monokai)
+
+*My favourite languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoavshah&count_private=true&langs_count=30&layout=compact&theme=monokai)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+* Not enough :(
+
