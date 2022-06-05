@@ -4,6 +4,7 @@
 * Reverse Engineering
 * CPP + Python Developer
 * Pentester
+* Meta-Programmer
 * Clear and Documented Code <3
 
 
