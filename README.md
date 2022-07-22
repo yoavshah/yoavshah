@@ -1,5 +1,7 @@
 ## yoavshah👋
 
+BUY ME A COFFEE (BTC) ---- 19N1rEXfgeLFZuuzcrKR4mAnC8hPQpcp2n
+
 
 * Reverse Engineering
 * CPP + Python Developer
@@ -7,8 +9,6 @@
 * Meta-Programmer
 * Clear and Documented Code <3
 
-BUY ME A COFFEE (BTC)
-19N1rEXfgeLFZuuzcrKR4mAnC8hPQpcp2n
 
 
 * My Stats:
